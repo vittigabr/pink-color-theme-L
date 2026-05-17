@@ -1,0 +1,21 @@
+{
+  "name": "pink-color-theme-l",
+  "displayName": "Pink Color Theme-L",
+  "description": "color theme pink strong",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pink-L",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-L-color-theme.json"
+      }
+    ]
+  }
+}
