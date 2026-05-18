@@ -2,7 +2,7 @@
   "name": "pink-color-theme-l",
   "displayName": "Pink Color Theme-L",
   "description": "color theme pink strong",
-  "publisher": "GabrielVitti",
+  "publisher": "Gabriel Vitti",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.120.0"
